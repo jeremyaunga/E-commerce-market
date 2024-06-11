@@ -1,3 +1,19 @@
+E-Commerce Market Place
+
+Introduction
+Welcome to E-Commerce Market Place, your one-stop shop for all things fashion, electronics, and more. Our platform offers a seamless online shopping experience with a wide range of products, secure payments, and fast shipping.
+
+Deployed Site: E-Commerce Market Place
+
+Final Project Blog Article: E-Commerce Market Place Project Overview
+
+Authors:
+
+Jeremiah Aunga
+[LinkedIn](https://www.linkedin.com/in/jeremiah-aunga-29b228257/)
+https://github.com/jeremyaunga/E-commerce-market/
+
+
 Empowering buyers and sellers in a vibrant online marketplace.
 
 Team:
